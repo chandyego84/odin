@@ -1,0 +1,2 @@
+# The Odin Project
+Motivation: I do not enjoy web development, especially anything to do with HTML/CSS, but I see how it can help me learn or explore topics that I might not dive into if I did not do it. So, here we are...learning something I don't really enjoy, but maybe that will change by the end of it.
